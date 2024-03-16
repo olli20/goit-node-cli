@@ -9,7 +9,7 @@
     "start:dev": "nodemon index"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/olli20/goit-node-cli.git"
   },
   "keywords": [],
